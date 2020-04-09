@@ -159,8 +159,7 @@ def main():
 
     if writeFile:
         # set directory
-        os.chdir('/Users/gli/Documents/JHU/EN.605.621.82.SP20 Foundations '
-                 'of Algorithms/Progamming_Assignement2')
+        os.chdir('')
 
         # write the sorting results into a file
         exportName = "HeapSort_Output.txt"
