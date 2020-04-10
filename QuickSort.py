@@ -2,6 +2,18 @@ import numpy as np
 import os
 
 """
+This is a single-class program.
+
+In the driver main class, you can choose whether to apply 
+median-of-three by changing mOfThree = True/False, 
+whether to write an output file by changing writeFile = True/False.
+
+A random generator will be used to initialize the input arrays. 
+Sort will automatically run on both randomized and reserve-sorted arrays. 
+Final results and runtime comparison will be displayed at the end.
+"""
+
+"""
 medianOfThree Function:
 
 i - index begin
