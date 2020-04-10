@@ -1,3 +1,14 @@
+"""
+Implementation of HeapSort
+
+In the driver main class, you can choose whether 
+to write an output file by changing writeFile = True/False.
+
+A random generator will be used to initialize the input arrays. 
+Sort will automatically run on both randomized and reserve-sorted arrays. 
+Final results and runtime comparison will be displayed at the end.
+"""
+
 import numpy as np
 import os
 
