@@ -2,6 +2,8 @@ import numpy as np
 import os
 
 """
+Implementation of QuickSort
+
 This is a single-class program.
 
 In the driver main class, you can choose whether to apply 
